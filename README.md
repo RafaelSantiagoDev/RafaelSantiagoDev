@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, eu sou o Rafael Santiago! 👋
 
-<!--
-**RafaelSantiagoDev/RafaelSantiagoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer in Training | IT Support & Infrasctruture
 
-Here are some ideas to get you started:
+Atualmente sou Jovem Aprendiz na **Agroterenas** e estudante de Análise e Desenvolvimento de Sistemas na **FATEC Ourinhos**. Meu objetivo é unir minha base prática em infraestrutura e redes com a criação de sistemas robustos e eficientes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ No que estou focado agora:
+- **Backend:** Aprendendo Java e os fundamentos da Orientação a Objetos.
+- **Frontend:** Iniciando meus estudos em React e a base de JavaScript/HTML/CSS.
+- **Infra:** Aprimorando conhecimentos em Redes, TCP/IP e ativos de rede.
+
+### 📫 Como me encontrar:
+- **LinkedIn:** [Meu Perfil Profissional](https://www.linkedin.com/in/rafael-santiago-0a54613b4/)
+- **Email:** rafael.santiago.dev@gmail.com
+  
+---
+
+*"A tecnologia é apenas uma ferramenta. No final, o que importa é como a usamos para resolver problemas reais."*  
