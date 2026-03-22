@@ -2,7 +2,7 @@
 
 ### Full Stack Developer in Training | IT Support & Infrasctruture
 
-Atualmente sou Jovem Aprendiz na **Agroterenas** e estudante de Análise e Desenvolvimento de Sistemas na **FATEC Ourinhos**. Meu objetivo é unir minha base prática em infraestrutura e redes com a criação de sistemas robustos e eficientes.
+Meu nome é Rafael Santiago, sou apaixonado pela tecnologia e atualmente sou estudante de Análise e Desenvolvimento de Sistemas na **FATEC Ourinhos**. Atuo como Jovem Aprendiz de Suporte Técnico e Infraestrutura buscando aprimorar meus conhecimentos em Redes, Infra e Hardwares. Meu objetivo é unir minha base prática em infraestrutura e redes com a criação de sistemas robustos e eficientes.
 
 ---
 
