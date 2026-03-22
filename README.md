@@ -12,7 +12,7 @@ Atualmente sou Jovem Aprendiz na **Agroterenas** e estudante de Análise e Desen
 - **Infra:** Aprimorando conhecimentos em Redes, TCP/IP e ativos de rede.
 
 ### 📫 Como me encontrar:
-- **LinkedIn:** [Meu Perfil Profissional](https://www.linkedin.com/in/rafael-santiago-0a54613b4/)
+- **LinkedIn:** [Meu Perfil Profissional](www.linkedin.com/in/rafael-santiago-dev)
 - **Email:** rafael.santiago.dev@gmail.com
   
 ---
